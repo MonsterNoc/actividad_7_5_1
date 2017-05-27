@@ -16,8 +16,8 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Proyecto Hola Mundo creado por John.");
-        System.out.println("Y modificado por Jessica.");
+        System.out.println("ADIOS");
+        
     }
     
 }
